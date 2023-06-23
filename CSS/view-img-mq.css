@@ -1,0 +1,134 @@
+@media only screen and (max-width:1350px) and (min-width:1195px){
+  .navbar{
+    background-color: #2874f0;
+  } 
+  .material li {
+    padding: 12px 22px;
+    display: block;
+    cursor: pointer;
+}
+.rating div button {
+    border: 0.5px solid rgb(233, 220, 220);
+    color: #212121;
+    display: inline;
+    /* flex-direction: inherit; */
+    position: relative;
+    left: 312px;
+    padding: 0 12px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+#top-stories {
+    /* padding-left: 12px; */
+    font-size: 14px;
+    font-weight: bold;
+    color: gray;
+    display: flex;
+}
+.brand-head {
+    padding: 12px;
+    color: gray;
+    font-size: 14px;
+    /* border: 2px solid green; */
+    width: 100%;
+    align-items: center;
+    height: auto;
+}
+.led-sm {
+    /* border: 2px solid saddlebrown; */
+    width: 43%;
+    height: 70%;
+    display: flex;
+    /* position: fixed; */
+    /* position: sticky; */
+}
+.led-large {
+    /* border: 2px solid gold; */
+    overflow-y: hidden;
+    /* overflow-x: hidden; */
+    height: 531px;
+    scroll-behavior: smooth;
+    overflow: scroll;
+    width: 57%;
+    padding-left: 10px;
+}
+.led-st-img {
+    border: 1px dashed gray;
+    cursor: pointer;
+    height: 40px;
+    margin: 10px;
+    /* margin-left: 10px; */
+    /* float: right; */
+    position: relative;
+    left: 36px;
+    bottom: 10px;
+}
+.share-img {
+    margin-right: 0;
+    margin-left: 140px;
+    font-size: 14px;
+}
+
+.home-ledger {
+    font-size: 10px;
+    color: gray;
+    font-weight: normal;
+    font-style: normal;
+}
+.seller {
+    display: flex;
+    color: white;
+    /* border: 1px solid greenyellow; */
+    height: 32px;
+    /* align-items: center; */
+    /* justify-content: center; */
+    text-align: center;
+    align-self: center;
+    font-size: 12px;
+    padding: 0 15px;
+}
+.left {
+    display: block;
+    color: white;
+    font-size: 16px;
+    margin-top: -67px;
+    margin-left: 116px;
+}
+#searchicon img {
+    /* justify-content: center; */
+    position: relative;
+    left: 506px;
+    top: -30px;
+    cursor: pointer;
+}
+.navbar ul li {
+    list-style: none;
+    display: inline;
+    margin: 19px;
+    font-size: 14px;
+    color: white;
+    font-weight: bold;
+    justify-content: center;
+    text-align: center;
+}
+button {
+    color: blue;
+    border: none;
+    /* border: 2px solid black; */
+    /* margin: auto; */
+    padding: 6px 26px;
+    background-color: white;
+    cursor: pointer;
+    margin-top: -27px;
+    display: block;
+    font-weight: bold;
+    font-size: 14px;
+}
+input {
+    padding: 6px 4px;
+    width: 273px;
+    margin-left: 271px;
+    display: block;
+    margin-top: -28px;
+} 
+}

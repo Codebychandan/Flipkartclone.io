@@ -1,0 +1,246 @@
+#directory{
+    margin-top: 60px;
+    /* border: 2px solid red; */
+    padding:0 22px;
+    margin-right: 12px;
+    height: 1560px;
+    background-color: #fff;
+}
+#top-stories{
+    font-size: 14px;
+    font-weight: bold;
+    color: gray;
+    display: flex;
+    
+}
+#top-stories a{
+    font-size: 14px;
+    justify-content: center;
+    /* padding-top: 2px; */
+    padding-left: 3px;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(57, 56, 56);
+}
+.brand-head{
+    padding-top: 12px;
+    color: gray;
+    font-size: 14px;
+    /* border: 2px solid green; */
+    width: 100%;
+    align-items: center;
+    height: auto;
+    
+}
+.brand-head a{
+    
+    /* margin-left: -8px; */
+    font-weight: normal;
+    font-style: normal;
+    color: gray;  
+}
+#all-brands{
+display: inline-block;
+}
+.overall{
+    margin-left: -40px;
+}
+.offerzone{
+/* border: 2px solid red; */
+overflow: hidden;
+background-color: white;
+z-index: 300;
+}
+
+.Headphones{
+height: 180px;
+}
+.top_value{
+    /* border: 2px solid red; */
+    position: relative;
+    left: 18px;
+    width: 50%;
+    margin-left: 112px;
+}
+
+.remote{
+    border: 2px solid red;
+    width: 20%;
+}
+.photosize{
+    /* border: 2px solid red; */
+    width: 11rem;
+    margin-left: -22px;
+}
+.coffee{
+    /* border: 2px solid red; */
+    margin-left: -38px;
+    margin-right: 10px;
+}
+.baby-gear{
+    /* border: 2px solid red; */
+    width: 7rem;
+    margin-right: -24px;
+}
+.coffee-rate{
+    margin-right: 44px;
+}
+.category{
+    font-size: 14px;
+    /* border: 2px solid red; */
+    width: 9rem;
+    margin-right: -33px;
+}
+.h-py{
+    /* border: 2px solid red; */
+    margin-right: -53px;
+}
+.Nescafe{
+    /* border: 2px solid red; */
+    width: 11rem;
+    position: relative;
+    left: -23px;
+}
+
+
+
+
+
+/* Desciption */
+h1{
+    padding-top: 42px;
+    font-size: 16px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: gray;
+}
+.commerce{
+    font-size: 11px;
+     color: gray;
+}
+h2{
+    padding-top: 22px;
+    font-size: 14px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: gray; 
+}
+.destination1{
+    margin-bottom: -21px;   
+}
+
+
+
+
+/* FOOTER  */
+.footer{
+    /* border: 2px solid blue; */
+    background-color: rgb(6, 38, 53);
+    height: auto;
+    width: auto;
+    padding-left: 0;
+    margin-left: 0;
+}
+
+.internet{
+    /* margin: 0 20px; */
+    padding: 50px;
+    /* border: 2px solid darkgreen; */
+    /* line-height: 1.5rem; */
+
+}
+
+.super{
+    padding: 0 12px;
+    /* line-height: 2rem; */
+    /* border: 2px solid firebrick; */
+    /* display: grid;
+    grid-template-rows: 4fr 4fr 4fr; */
+display: flex;
+}
+.abouts{
+    /* margin: 12px 0; */
+    width: 152px;
+    /* border: 2px solid darkgrey; */
+    line-height: 1.5rem;
+    color: gray;
+    font-size: 12px;
+}
+.abouts a{
+    color: white;
+    font-weight: normal;
+    font-style: normal;
+}
+.abouts a:hover{
+    text-decoration: underline;
+    
+}
+.mailus{
+    padding-top: 0;
+    display: flex;
+    margin-left: 122px;
+    padding-left: 40px;
+    /* border: 2px solid yellow; */
+    border-left: 0.5px solid rgb(76, 75, 75);
+    /* line-height: 12px; */
+    height: 132px;
+    width: 50%;
+}
+.register-mail{
+    position: relative;
+    bottom: 9px;
+    padding-bottom: 12px;
+    margin-top: 1px;
+    height: auto;
+    line-height: 1rem;
+    /* border:2px solid fuchsia; */
+    margin: 10px;
+}
+.flipmail{
+    margin-bottom: 12px;
+    color: gray;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 12px;
+}
+.register-mail p{
+    color: white;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 12px;
+}
+.register-mail span{
+    font-size: 12px;
+    color: rgb(87, 87, 225);
+}
+
+
+.webend{
+    border-top: 1px solid gray;
+    display: flex;
+    margin: 0 12px;
+    padding:15px 0;
+}
+
+
+.seller{
+    display: flex;
+    color: white;
+    /* border: 1px solid greenyellow; */
+    height: 32px;
+    /* align-items: center; */
+    /* justify-content: center; */
+    text-align: center;
+    align-self: center;
+    font-size: 14px;
+    padding: 0 25px;
+}
+
+#advert{
+    position: relative;
+bottom: 12px;
+}
+#atm-img{
+    position: relative;
+    bottom: 9px;
+}
